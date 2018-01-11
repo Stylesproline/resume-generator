@@ -40,18 +40,18 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
         "bio" : "This is the executive summary.",
         "email" : "u4bi@daum.net",
         "icon" : {
-            "github"    : "https://github.com/u4bi",
-            "linkdin"   : "https://github.com/u4bi",
-            "facebook"  : "https://github.com/u4bi",
-            "instagram" : "https://github.com/u4bi",
-            "twitter"   : "https://github.com/u4bi",
-            "website"   : "https://github.com/u4bi"
+            "github"    : "https://github.com/",
+            "linkdin"   : "https://github.com/",
+            "facebook"  : "https://github.com/",
+            "instagram" : "https://github.com/",
+            "twitter"   : "https://github.com/",
+            "website"   : "https://github.com/"
         }
     },
     "projects" : [
         {
             "name" : "Test Project 1",
-            "link" : "https://github.com/u4bi",
+            "link" : "https://github.com/",
             "date" : {
                 "start" : "2017/09/06",
                 "end"   : "2017/09/07"
@@ -71,7 +71,7 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
     "experience" : [
         {
             "name" : "Test Company 1",
-            "link" : "https://github.com/u4bi",
+            "link" : "https://github.com/",
             "job"  : "Frontend Developer",
             "date" : {
                 "start" : "2017/09/06",
@@ -88,7 +88,7 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
         "edu" : [
             {
                 "title" : "Test College",
-                "link" : "https://github.com/u4bi",
+                "link" : "https://github.com/",
                 "name"  : "Test lang",
                 "date" : {
                     "start" : "2017/09/06",
@@ -100,7 +100,7 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
         "cert" : [
             {
                 "title" : "Test Campus",
-                "link" : "https://github.com/u4bi",
+                "link" : "https://github.com/",
                 "name" : "Test lang",
                 "date" : "2017/09/07"
             }
