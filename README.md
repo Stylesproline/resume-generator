@@ -34,11 +34,11 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
 ```json
 {
     "header" : {
-        "avatar" : "https://avatars3.githubusercontent.com/u/21367010?v=4&s=460",
-        "name": "Myungjae Yu",
+        "avatar" : "https://avatars2.githubusercontent.com/u/35291634?s=72&v=4",
+        "name": "Stylesproline",
         "job" : "Frontend Developer",
         "bio" : "This is the executive summary.",
-        "email" : "u4bi@daum.net",
+        "email" : "Stylesproline@gmail.com.net",
         "icon" : {
             "github"    : "https://github.com/Stylesproline/resume-generator",
             "linkdin"   : "https://github.com/Stylesproline/resume-generator",
@@ -77,7 +77,7 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
                 "start" : "2017/09/06",
                 "end"   : "2017/09/07"
             },
-            "address" : ", Seoul",
+            "address" :Stylesproline ", Vilnus",
             "bios" : [
                 "Test Comment 1",
                 "Test Comment 2"
