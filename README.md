@@ -77,7 +77,7 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
                 "start" : "2017/09/06",
                 "end"   : "2017/09/07"
             },
-            "address" :Stylesproline ", Vilnus",
+            "address" : "Stylesproline, Vilnus",
             "bios" : [
                 "Test Comment 1",
                 "Test Comment 2"
