@@ -1,23 +1,23 @@
 {
     "header" : {
-      "avatar" : "https://avatars3.githubusercontent.com/u/21367010?v=4&s=460",
-      "name": "Myungjae Yu",
-      "job" : "Frontend Developer",
-      "bio" : "This is the executive summary. For the man sound of body and serene of mind, there is no such thing as bad weather. every day has its beauty. and storms which whip the blood do but make it pulse more vigorously. George Gissing",
-      "email" : "u4bi@daum.net",
+      "avatar" : "https://avatars2.githubusercontent.com/u/35291634?s=72&v=4",
+      "name": "Stylesproline",
+        "job" : "Frontend Developer",
+        "bio" : "This is the executive summary.",
+        "email" : "Stylesproline@gmail.com.net",
       "icon" : {
-        "github"    : "https://github.com/u4bi",
-        "linkdin"   : "https://github.com/u4bi",
-        "facebook"  : "https://github.com/u4bi",
-        "instagram" : "https://github.com/u4bi",
-        "twitter"   : "https://github.com/u4bi",
-        "website"   : "https://github.com/u4bi"
+        "github"    : "https://github.com/Stylesproline",
+        "linkdin"   : "https://github.com/Stylesproline",
+        "facebook"  : "https://github.com/Stylesproline",
+        "instagram" : "https://github.com/Stylesproline",
+        "twitter"   : "https://github.com/Stylesproline",
+        "website"   : "https://github.com/Stylesproline"
       }
     },
     "projects" : [
       {
         "name" : "Test Project 1",
-        "link" : "https://github.com/u4bi",
+        "link" : "https://github.com/Stylesproline",
         "date" : {
           "start" : "2017/09/06",
           "end"   : "2017/09/07"
@@ -103,7 +103,7 @@
       "edu" : [
         {
           "title" : "Test College",
-          "link" : "https://github.com/u4bi",
+          "link" : "https://github.com/Stylesproline",
           "name"  : "Test lang",
           "date" : {
             "start" : "2017/09/06",
@@ -115,7 +115,7 @@
       "cert" : [
         {
           "title" : "Test Campus",
-          "link" : "https://github.com/u4bi",          
+          "link" : "https://github.com/Stylesproline",          
           "name" : "Test lang",
           "date" : "2017/09/07"
         }
