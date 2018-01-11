@@ -1,6 +1,6 @@
 # resume-maker
 
-[![NPM Version](https://img.shields.io/npm/v/resume-maker.svg)](https://www.npmjs.com/package/resume-maker)
+
 
 ![Alt text](https://drive.google.com/uc?export=view&id=0B3XkfYbZArSfdTc4ZVV4X0V0UGc)
 
@@ -40,12 +40,12 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
         "bio" : "This is the executive summary.",
         "email" : "u4bi@daum.net",
         "icon" : {
-            "github"    : "https://github.com/",
-            "linkdin"   : "https://github.com/",
-            "facebook"  : "https://github.com/",
-            "instagram" : "https://github.com/",
-            "twitter"   : "https://github.com/",
-            "website"   : "https://github.com/"
+            "github"    : "https://github.com/Stylesproline/resume-generator",
+            "linkdin"   : "https://github.com/Stylesproline/resume-generator",
+            "facebook"  : "https://github.com/Stylesproline/resume-generator",
+            "instagram" : "https://github.com/Stylesproline/resume-generator",
+            "twitter"   : "https://github.com/Stylesproline/resume-generator",
+            "website"   : "https://github.com/Stylesproline/resume-generator"
         }
     },
     "projects" : [
@@ -71,13 +71,13 @@ resume.render(data); // HTTP Link , JSON Object, JSON String
     "experience" : [
         {
             "name" : "Test Company 1",
-            "link" : "https://github.com/",
+            "link" : "https://github.com/https://github.com/",
             "job"  : "Frontend Developer",
             "date" : {
                 "start" : "2017/09/06",
                 "end"   : "2017/09/07"
             },
-            "address" : "Yeoksam, Seoul",
+            "address" : ", Seoul",
             "bios" : [
                 "Test Comment 1",
                 "Test Comment 2"
